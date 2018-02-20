@@ -1,0 +1,53 @@
+commit 496df59046f46dbb215d24e5a5fbd85afd966059
+Author: vladtol_pc9 <heehaw1984@gmail.com>
+Date:   Tue Feb 20 18:14:57 2018 +0300
+
+    dobavil prototip
+
+commit 6c26bed0d909a2f95b0af5df36f0f58a6a8bd18d
+Author: vladtol_pc9 <heehaw1984@gmail.com>
+Date:   Tue Feb 20 17:58:02 2018 +0300
+
+    another test from pc9
+
+commit 30a3515516ac31f8f4e8d2c05c0a85c76931ca33
+Author: vladtol_pc9 <heehaw1984@gmail.com>
+Date:   Tue Feb 20 17:51:35 2018 +0300
+
+    "from pc9 test"
+
+commit ae44db0c25f8a1f1385b26e4e161323e36207c29
+Author: vladtol <heeaw1984@gmail.com>
+Date:   Tue Feb 20 11:57:57 2018 +0300
+
+    dobavil kommentariy v proekt
+
+commit cbd3f6d18b2dd3211694e79f7d17258401dfd027
+Author: vladtol <heeaw1984@gmail.com>
+Date:   Tue Feb 20 02:04:37 2018 +0300
+
+    color noise tv
+
+commit ec9189ec212db753f88bf97331571d6faaafb1fd
+Author: vladtol <heeaw1984@gmail.com>
+Date:   Mon Feb 19 20:00:32 2018 +0300
+
+    dobavil rampu
+
+commit d9787d61cab0e686f1778effd06f910a441c8aa9
+Author: vladtol <heeaw1984@gmail.com>
+Date:   Mon Feb 19 19:51:46 2018 +0300
+
+    dobavil in-math-out
+
+commit 631db3c01e8266958679d711ebc278e7800222f0
+Author: vladtol <heeaw1984@gmail.com>
+Date:   Mon Feb 19 19:48:23 2018 +0300
+
+    Proverka Maks Privet
+
+commit aa6c28d8734af21c5fea17b05f5e911d68d4deae
+Author: vladtol <heehaw1984@gmail.com>
+Date:   Sun Feb 18 12:21:38 2018 +0300
+
+    Initial commit
